@@ -1,3 +1,0 @@
-[submodule "bank-client"]
-	path = bank-client
-	url = https://github.com/pietrzakadrian/bank-client.git
